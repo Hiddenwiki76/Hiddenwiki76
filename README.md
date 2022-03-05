@@ -5,7 +5,5 @@ We are hiddenwiki, have fun now on our best websites! We look trough the interne
 
 
 
-Links:
 
-synthesia.io       Make your own AI-videos!
-slither.io         Play as a snake!
+[Hiddenlinks.txt](https://github.com/Hiddenwiki76/Hiddenwiki76/files/8191590/Hiddenlinks.txt)
