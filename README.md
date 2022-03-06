@@ -25,6 +25,28 @@ That is the link for windows:
 https://www.mediafire.com/file/kw7fexjy0505345/torbrowser-install-win64-11.0.6_de.exe/file
 
 
+Tor-browser for Apple:
+
+https://apps.apple.com/de/app/onion-browser/id519296448
+
+
+Tor-browser for android:
+
+https://play.google.com/store/apps/details?id=org.torproject.torbrowser&hl=de&gl=US
+
+
+
+And here are the Darkweb-links:
+
+
+[Darkweb-links.txt](https://github.com/Hiddenwiki76/Hiddenwiki76/files/8192194/Darkweb-links.txt)
+
+
+
+
+
+
+
 
 
 
